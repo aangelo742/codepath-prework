@@ -62,7 +62,7 @@ I personally am curious about how these various web technologies interact with o
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/0b17b13b11b44d41a1ba7527a7f639bf)
 
 
 ## License
